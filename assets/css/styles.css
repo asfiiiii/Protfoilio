@@ -97,7 +97,7 @@ body.dark-theme{
 }
 
 .change-theme:hover{
-   color: magenta
+   color: rgb(255, 254, 255)
 }
 
 /*==================== BASE ====================*/
@@ -811,7 +811,7 @@ img{
    padding-bottom: 55px;
 }
 /*==================== TESTIMONIAL ====================*/
-.testimonial__data,
+/* .testimonial__data,
 .testimonial__header{
    display: flex;
 }
@@ -848,7 +848,7 @@ img{
 
 .swiper-container .swiper-pagination-testimonial{
    bottom: 0;
-}
+} */
 /*==================== CONTACT ME ====================*/
 .contact__container{
    row-gap: 3rem;
